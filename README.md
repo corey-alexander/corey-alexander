@@ -1,4 +1,4 @@
-### Hi there 👋
+### Some various, often random code repositories 😄
 
 <!--
 **corey-alexander/corey-alexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
